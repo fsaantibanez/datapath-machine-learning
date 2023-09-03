@@ -1,0 +1,6 @@
+pandas
+numpy
+seaborn==0.12.2
+matplotlib ==3.7.2
+scikit-learn
+
