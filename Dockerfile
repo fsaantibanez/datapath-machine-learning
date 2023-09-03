@@ -17,3 +17,4 @@ COPY logreg_balanced.pkl .
 
 # Run the python script when the container launches
 #ENTRYPOINT ["python", main.py ]
+#Hice pruebas con el ENTRYPOINT y CMD para ver el output de mi modelo cuando lo ejecutaba en el container y no se desplegaba el print
